@@ -1,0 +1,15 @@
+[[package]]
+name = "dearpygui"
+version = "1.6.2"
+description = "DearPyGui: A simple Python GUI Toolkit"
+category = "main"
+optional = false
+python-versions = ">=3.7"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.9"
+content-hash = "87068e0ef36337414eb3e488602bd1cc144e66b0bf9befd935244d736039e64a"
+
+[metadata.files]
+dearpygui = []
